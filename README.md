@@ -1,4 +1,6 @@
 # BlueTooth-Finder
+# This is a homework from computer networks.
+
 THis is a BlueTooth-Finder with Android Studio. You can open Android Studio and open the file MyApplication as a work space. Then let two telephones download the app. After that, you can randomly choose one as server with the other one client. 
 ---------------------------------------------------------------------------------------------------------------------
 The functions are all about these three parts:
