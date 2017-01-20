@@ -4,6 +4,8 @@
 THis is a BlueTooth-Finder with Android Studio. You can open Android Studio and open the file MyApplication as a work space. Then let two telephones download the app. After that, you can randomly choose one as server with the other one client. 
 ---------------------------------------------------------------------------------------------------------------------
 The functions are all about these three parts:
+
+
 1. Show the distance between two phones with a RSS number. And when the distance is bigger than a threshold, the phone will ring.
 
 
